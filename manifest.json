@@ -1,6 +1,8 @@
 {
-    "name": "Internet Archive Extension",
-    "version": "0.3.1",
+"update_url": "https://clients2.google.com/service/update2/crx",
+
+    "name": "Wayback Machine Auto-Archiver",
+    "version": "0.3.2",
     "description": "Automatically Archive Pages.",
     "permissions": [
 		"activeTab",
