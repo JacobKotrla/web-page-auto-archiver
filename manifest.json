@@ -2,7 +2,7 @@
 "update_url": "https://clients2.google.com/service/update2/crx",
 
     "name": "Wayback Machine Auto-Archiver",
-    "version": "0.3.2",
+    "version": "0.3.3",
     "description": "Automatically Archive Pages.",
     "permissions": [
 		"https://web.archive.org/*",

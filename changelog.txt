@@ -25,3 +25,8 @@
 2018-10-12	v0.3.0		I restructured my API call again, and now it finally works! I accidentally put GET instead of POST and that fixed the problem.
 2018-10-12	v0.3.1		I implemented a check to make sure API calls are not sent more than once per second, and tried to implement a check that makes sure only one call is processing at a time, but the API calls process so fast this is hard to test.
 2018-10-17	v0.3.2		I changed the API call from once every second to once every two seconds.
+2022-07-22	v0.3.3
+	* Update icon to comply with new Chrome Web Store guidelines
+	* Remove unnecessary permissions
+	* Change archival interval from 1 second to 2 seconds, for real this time
+	* Remove jQuery, as it wasn't actually used
