@@ -49,4 +49,4 @@ setInterval(function() {
 	} else {
 		console.log("There is already a request processing.");
 	}
-}, 1000);
+}, 2000);
