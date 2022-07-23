@@ -5,9 +5,6 @@
     "version": "0.3.2",
     "description": "Automatically Archive Pages.",
     "permissions": [
-		"activeTab",
-		"declarativeContent",
-		"storage",
 		"https://web.archive.org/*",
 		"tabs"
 		],
